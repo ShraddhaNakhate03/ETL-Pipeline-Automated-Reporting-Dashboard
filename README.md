@@ -73,7 +73,7 @@ A UK-based e-commerce company faced:
 
 ---
 
-## 📈 Key Insights (Deloitte-Style Storytelling)
+## 📈 Key Insights 
 
 - 🚨 **28.5% data was unusable** → Major data quality risk identified  
 - 🇬🇧 **UK contributes 84% revenue** → Strong domestic dependency  

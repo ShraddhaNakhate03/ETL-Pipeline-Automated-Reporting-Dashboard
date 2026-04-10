@@ -63,8 +63,12 @@ A UK-based e-commerce company faced:
 
 ## 📊 Dashboard Preview
 
-<!-- Replace with your actual screenshot -->
-![Dashboard Screenshot](./dashboard.png)
+
+
+<img width="1336" height="747" alt="Revenue Overview" src="https://github.com/user-attachments/assets/e6ec05a7-e07e-45e5-a861-b7bb2005d5f7" />
+
+<img width="1327" height="744" alt="Product Analysis" src="https://github.com/user-attachments/assets/7f567703-bf26-4207-9893-b97121439379" />
+
 
 ---
 

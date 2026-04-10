@@ -23,8 +23,8 @@ A UK-based e-commerce company faced:
 
 ---
 
-## 🛠️ Tech Stack (ATS Keywords 🚀)
-- **Python (Pandas, pandasql)**
+## 🛠️ Tech Stack 
+- **Python (Pandas)**
 - **SQL (SQLite)**
 - **Power BI**
 - **ETL Pipeline Development**
